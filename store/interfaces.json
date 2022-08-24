@@ -1,0 +1,8 @@
+{
+  "countdown": {
+    "component": "Countdown"
+  },
+  "google-maps-comp": {
+    "component": "MapComponent"
+  }
+}
